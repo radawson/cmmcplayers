@@ -1,3 +1,3 @@
 # Learn the CMMC players
 
-Whose who of the ecosystem
+Who's who of the ecosystem
